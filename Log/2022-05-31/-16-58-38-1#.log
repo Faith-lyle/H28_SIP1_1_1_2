@@ -1,0 +1,1760 @@
+2022-05-31 16:58:38,907		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_start		Step1  "GetSerialNumber" Start   ------------------------------>
+2022-05-31 16:58:38,967		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 1--------------------
+
+2022-05-31 16:58:38,967		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: NA
+2022-05-31 16:58:38,967		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: NA
+2022-05-31 16:58:38,967		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: PASS
+2022-05-31 16:58:38,967		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: PASS
+2022-05-31 16:58:38,975		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 2--------------------
+
+2022-05-31 16:58:38,975		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: NA
+2022-05-31 16:58:38,975		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: NA
+2022-05-31 16:58:38,975		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: PASS
+2022-05-31 16:58:38,975		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: PASS
+2022-05-31 16:58:39,020		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 3--------------------
+
+2022-05-31 16:58:39,020		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: NA
+2022-05-31 16:58:39,020		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: NA
+2022-05-31 16:58:39,020		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: PASS
+2022-05-31 16:58:39,020		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: PASS
+2022-05-31 16:58:39,022		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 4--------------------
+
+2022-05-31 16:58:39,022		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: NA
+2022-05-31 16:58:39,022		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: NA
+2022-05-31 16:58:39,022		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: PASS
+2022-05-31 16:58:39,022		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: PASS
+2022-05-31 16:58:39,023		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 5--------------------
+
+2022-05-31 16:58:39,023		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: NA
+2022-05-31 16:58:39,023		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: NA
+2022-05-31 16:58:39,023		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: PASS
+2022-05-31 16:58:39,023		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: PASS
+2022-05-31 16:58:39,023		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 6--------------------
+
+2022-05-31 16:58:39,023		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: NA
+2022-05-31 16:58:39,024		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: NA
+2022-05-31 16:58:39,024		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: PASS
+2022-05-31 16:58:39,024		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: PASS
+2022-05-31 16:58:39,048		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 7--------------------
+
+2022-05-31 16:58:39,048		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: NA
+2022-05-31 16:58:39,048		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: NA
+2022-05-31 16:58:39,048		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: PASS
+2022-05-31 16:58:39,048		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: PASS
+2022-05-31 16:58:39,075		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 8--------------------
+
+2022-05-31 16:58:39,075		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: NA
+2022-05-31 16:58:39,075		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: NA
+2022-05-31 16:58:39,075		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: PASS
+2022-05-31 16:58:39,075		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: PASS
+2022-05-31 16:58:39,075		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 9--------------------
+
+2022-05-31 16:58:39,075		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: NA
+2022-05-31 16:58:39,075		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: NA
+2022-05-31 16:58:39,075		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: PASS
+2022-05-31 16:58:39,075		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: PASS
+2022-05-31 16:58:39,099		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 10--------------------
+
+2022-05-31 16:58:39,099		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: NA
+2022-05-31 16:58:39,099		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: NA
+2022-05-31 16:58:39,099		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: PASS
+2022-05-31 16:58:39,099		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: PASS
+2022-05-31 16:58:39,121		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 11--------------------
+
+2022-05-31 16:58:39,121		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: NA
+2022-05-31 16:58:39,122		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: NA
+2022-05-31 16:58:39,122		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: PASS
+2022-05-31 16:58:39,122		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: PASS
+2022-05-31 16:58:39,145		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 12--------------------
+
+2022-05-31 16:58:39,146		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: NA
+2022-05-31 16:58:39,146		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: NA
+2022-05-31 16:58:39,146		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: PASS
+2022-05-31 16:58:39,146		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: PASS
+2022-05-31 16:58:39,170		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 13--------------------
+
+2022-05-31 16:58:39,170		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: NA
+2022-05-31 16:58:39,170		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: NA
+2022-05-31 16:58:39,170		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: PASS
+2022-05-31 16:58:39,171		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: PASS
+2022-05-31 16:58:39,195		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 14--------------------
+
+2022-05-31 16:58:39,195		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: NA
+2022-05-31 16:58:39,195		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: NA
+2022-05-31 16:58:39,195		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: PASS
+2022-05-31 16:58:39,195		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: PASS
+2022-05-31 16:58:39,195		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_end		Elapsed Seconds:0.288829
+2022-05-31 16:58:39,196		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_end		Step1  "GetSerialNumber"  End   <------------------------------
+
+2022-05-31 16:58:39,497		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_start		Step2  "PP_VBATT" Start   ------------------------------>
+2022-05-31 16:58:39,498		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 1--------------------
+
+2022-05-31 16:58:39,498		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.095
+2022-05-31 16:58:39,498		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.203
+2022-05-31 16:58:39,498		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:39,498		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:39,521		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 2--------------------
+
+2022-05-31 16:58:39,521		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.095
+2022-05-31 16:58:39,521		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.203
+2022-05-31 16:58:39,521		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:39,521		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:39,591		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 3--------------------
+
+2022-05-31 16:58:39,591		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.095
+2022-05-31 16:58:39,591		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.203
+2022-05-31 16:58:39,591		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:39,591		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:39,620		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 4--------------------
+
+2022-05-31 16:58:39,620		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.095
+2022-05-31 16:58:39,621		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.203
+2022-05-31 16:58:39,621		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0025
+2022-05-31 16:58:39,621		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:39,621		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 5--------------------
+
+2022-05-31 16:58:39,621		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.095
+2022-05-31 16:58:39,621		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.203
+2022-05-31 16:58:39,621		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:39,621		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:39,653		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 6--------------------
+
+2022-05-31 16:58:39,653		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.095
+2022-05-31 16:58:39,653		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.203
+2022-05-31 16:58:39,653		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:39,653		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:39,676		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 7--------------------
+
+2022-05-31 16:58:39,677		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.095
+2022-05-31 16:58:39,677		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.203
+2022-05-31 16:58:39,677		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:39,677		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:39,700		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 8--------------------
+
+2022-05-31 16:58:39,700		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.095
+2022-05-31 16:58:39,700		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.203
+2022-05-31 16:58:39,700		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:39,700		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:39,726		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 9--------------------
+
+2022-05-31 16:58:39,727		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.095
+2022-05-31 16:58:39,727		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.203
+2022-05-31 16:58:39,727		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:39,727		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:39,753		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 10--------------------
+
+2022-05-31 16:58:39,753		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.095
+2022-05-31 16:58:39,754		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.203
+2022-05-31 16:58:39,754		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:39,754		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:39,780		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 11--------------------
+
+2022-05-31 16:58:39,780		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.095
+2022-05-31 16:58:39,780		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.203
+2022-05-31 16:58:39,780		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:39,780		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:39,807		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 12--------------------
+
+2022-05-31 16:58:39,807		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.095
+2022-05-31 16:58:39,807		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.203
+2022-05-31 16:58:39,807		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:39,807		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:39,830		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 13--------------------
+
+2022-05-31 16:58:39,830		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.095
+2022-05-31 16:58:39,830		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.203
+2022-05-31 16:58:39,830		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:39,830		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:39,853		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 14--------------------
+
+2022-05-31 16:58:39,853		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.095
+2022-05-31 16:58:39,853		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.203
+2022-05-31 16:58:39,853		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:39,853		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:39,853		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_end		Elapsed Seconds:0.356449
+2022-05-31 16:58:39,854		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_end		Step2  "PP_VBATT"  End   <------------------------------
+
+2022-05-31 16:58:40,158		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_start		Step3  "ANALOG_AMP_OUT_P" Start   ------------------------------>
+2022-05-31 16:58:40,159		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 1--------------------
+
+2022-05-31 16:58:40,159		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.247
+2022-05-31 16:58:40,159		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.321
+2022-05-31 16:58:40,159		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:40,159		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:40,183		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 2--------------------
+
+2022-05-31 16:58:40,183		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.247
+2022-05-31 16:58:40,183		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.321
+2022-05-31 16:58:40,183		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:40,183		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:40,207		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 3--------------------
+
+2022-05-31 16:58:40,207		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.247
+2022-05-31 16:58:40,207		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.321
+2022-05-31 16:58:40,207		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:40,207		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:40,231		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 4--------------------
+
+2022-05-31 16:58:40,231		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.247
+2022-05-31 16:58:40,231		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.321
+2022-05-31 16:58:40,231		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:40,231		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:40,254		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 5--------------------
+
+2022-05-31 16:58:40,254		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.247
+2022-05-31 16:58:40,254		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.321
+2022-05-31 16:58:40,255		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:40,255		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:40,278		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 6--------------------
+
+2022-05-31 16:58:40,278		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.247
+2022-05-31 16:58:40,278		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.321
+2022-05-31 16:58:40,278		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0025
+2022-05-31 16:58:40,278		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:40,301		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 7--------------------
+
+2022-05-31 16:58:40,301		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.247
+2022-05-31 16:58:40,302		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.321
+2022-05-31 16:58:40,302		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:40,302		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:40,325		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 8--------------------
+
+2022-05-31 16:58:40,325		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.247
+2022-05-31 16:58:40,325		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.321
+2022-05-31 16:58:40,325		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:40,325		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:40,348		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 9--------------------
+
+2022-05-31 16:58:40,348		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.247
+2022-05-31 16:58:40,348		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.321
+2022-05-31 16:58:40,348		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:40,348		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:40,372		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 10--------------------
+
+2022-05-31 16:58:40,372		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.247
+2022-05-31 16:58:40,372		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.321
+2022-05-31 16:58:40,372		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:40,372		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:40,400		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 11--------------------
+
+2022-05-31 16:58:40,400		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.247
+2022-05-31 16:58:40,400		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.321
+2022-05-31 16:58:40,400		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:40,400		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:40,426		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 12--------------------
+
+2022-05-31 16:58:40,427		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.247
+2022-05-31 16:58:40,427		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.321
+2022-05-31 16:58:40,427		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0026
+2022-05-31 16:58:40,427		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:40,454		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 13--------------------
+
+2022-05-31 16:58:40,454		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.247
+2022-05-31 16:58:40,454		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.321
+2022-05-31 16:58:40,454		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:40,454		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:40,480		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 14--------------------
+
+2022-05-31 16:58:40,481		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.247
+2022-05-31 16:58:40,481		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.321
+2022-05-31 16:58:40,481		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:40,481		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:40,481		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_end		Elapsed Seconds:0.322605
+2022-05-31 16:58:40,481		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_end		Step3  "ANALOG_AMP_OUT_P"  End   <------------------------------
+
+2022-05-31 16:58:40,783		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_start		Step4  "ANALOG_AMP_OUT_N" Start   ------------------------------>
+2022-05-31 16:58:40,783		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 1--------------------
+
+2022-05-31 16:58:40,783		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.237
+2022-05-31 16:58:40,784		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.311
+2022-05-31 16:58:40,784		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0023
+2022-05-31 16:58:40,784		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:40,809		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 2--------------------
+
+2022-05-31 16:58:40,809		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.237
+2022-05-31 16:58:40,809		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.311
+2022-05-31 16:58:40,809		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0023
+2022-05-31 16:58:40,809		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:40,834		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 3--------------------
+
+2022-05-31 16:58:40,834		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.237
+2022-05-31 16:58:40,834		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.311
+2022-05-31 16:58:40,834		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:40,834		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:40,858		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 4--------------------
+
+2022-05-31 16:58:40,858		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.237
+2022-05-31 16:58:40,858		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.311
+2022-05-31 16:58:40,858		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:40,858		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:40,882		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 5--------------------
+
+2022-05-31 16:58:40,882		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.237
+2022-05-31 16:58:40,882		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.311
+2022-05-31 16:58:40,882		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0025
+2022-05-31 16:58:40,882		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:40,907		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 6--------------------
+
+2022-05-31 16:58:40,907		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.237
+2022-05-31 16:58:40,907		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.311
+2022-05-31 16:58:40,907		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:40,907		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:40,932		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 7--------------------
+
+2022-05-31 16:58:40,932		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.237
+2022-05-31 16:58:40,932		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.311
+2022-05-31 16:58:40,932		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:40,932		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:40,956		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 8--------------------
+
+2022-05-31 16:58:40,956		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.237
+2022-05-31 16:58:40,956		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.311
+2022-05-31 16:58:40,957		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:40,957		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:40,981		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 9--------------------
+
+2022-05-31 16:58:40,981		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.237
+2022-05-31 16:58:40,981		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.311
+2022-05-31 16:58:40,981		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:40,981		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:41,008		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 10--------------------
+
+2022-05-31 16:58:41,008		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.237
+2022-05-31 16:58:41,008		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.311
+2022-05-31 16:58:41,008		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:41,008		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:41,036		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 11--------------------
+
+2022-05-31 16:58:41,037		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.237
+2022-05-31 16:58:41,037		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.311
+2022-05-31 16:58:41,037		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:41,037		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:41,066		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 12--------------------
+
+2022-05-31 16:58:41,066		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.237
+2022-05-31 16:58:41,066		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.311
+2022-05-31 16:58:41,066		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0023
+2022-05-31 16:58:41,066		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:41,094		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 13--------------------
+
+2022-05-31 16:58:41,094		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.237
+2022-05-31 16:58:41,094		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.311
+2022-05-31 16:58:41,094		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0022
+2022-05-31 16:58:41,094		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:41,119		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 14--------------------
+
+2022-05-31 16:58:41,120		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.237
+2022-05-31 16:58:41,120		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.311
+2022-05-31 16:58:41,120		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:41,120		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:41,120		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_end		Elapsed Seconds:0.337028
+2022-05-31 16:58:41,120		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_end		Step4  "ANALOG_AMP_OUT_N"  End   <------------------------------
+
+2022-05-31 16:58:41,424		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_start		Step5  "IO_SOC__TO_FRONT_MIC_SEL_PERF" Start   ------------------------------>
+2022-05-31 16:58:41,424		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 1--------------------
+
+2022-05-31 16:58:41,425		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.215
+2022-05-31 16:58:41,425		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.275
+2022-05-31 16:58:41,425		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0023
+2022-05-31 16:58:41,425		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:41,451		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 2--------------------
+
+2022-05-31 16:58:41,451		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.215
+2022-05-31 16:58:41,451		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.275
+2022-05-31 16:58:41,451		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:41,451		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:41,476		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 3--------------------
+
+2022-05-31 16:58:41,476		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.215
+2022-05-31 16:58:41,476		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.275
+2022-05-31 16:58:41,476		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:41,477		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:41,502		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 4--------------------
+
+2022-05-31 16:58:41,502		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.215
+2022-05-31 16:58:41,502		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.275
+2022-05-31 16:58:41,503		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:41,503		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:41,527		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 5--------------------
+
+2022-05-31 16:58:41,528		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.215
+2022-05-31 16:58:41,528		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.275
+2022-05-31 16:58:41,528		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0022
+2022-05-31 16:58:41,528		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:41,554		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 6--------------------
+
+2022-05-31 16:58:41,554		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.215
+2022-05-31 16:58:41,554		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.275
+2022-05-31 16:58:41,554		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0022
+2022-05-31 16:58:41,554		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:41,580		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 7--------------------
+
+2022-05-31 16:58:41,580		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.215
+2022-05-31 16:58:41,580		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.275
+2022-05-31 16:58:41,580		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:41,580		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:41,606		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 8--------------------
+
+2022-05-31 16:58:41,606		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.215
+2022-05-31 16:58:41,606		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.275
+2022-05-31 16:58:41,606		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:41,606		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:41,632		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 9--------------------
+
+2022-05-31 16:58:41,632		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.215
+2022-05-31 16:58:41,632		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.275
+2022-05-31 16:58:41,632		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0023
+2022-05-31 16:58:41,632		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:41,661		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 10--------------------
+
+2022-05-31 16:58:41,661		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.215
+2022-05-31 16:58:41,661		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.275
+2022-05-31 16:58:41,661		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:41,661		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:41,690		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 11--------------------
+
+2022-05-31 16:58:41,690		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.215
+2022-05-31 16:58:41,690		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.275
+2022-05-31 16:58:41,690		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0023
+2022-05-31 16:58:41,690		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:41,720		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 12--------------------
+
+2022-05-31 16:58:41,720		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.215
+2022-05-31 16:58:41,720		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.275
+2022-05-31 16:58:41,720		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:41,720		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:41,747		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 13--------------------
+
+2022-05-31 16:58:41,748		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.215
+2022-05-31 16:58:41,748		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.275
+2022-05-31 16:58:41,748		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0023
+2022-05-31 16:58:41,748		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:41,775		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 14--------------------
+
+2022-05-31 16:58:41,776		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.215
+2022-05-31 16:58:41,776		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.275
+2022-05-31 16:58:41,776		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:41,776		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:41,776		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_end		Elapsed Seconds:0.351903
+2022-05-31 16:58:41,776		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_end		Step5  "IO_SOC__TO_FRONT_MIC_SEL_PERF"  End   <------------------------------
+
+2022-05-31 16:58:42,080		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_start		Step6  "PP1V8_LSC_0_KADABRA_TX" Start   ------------------------------>
+2022-05-31 16:58:42,080		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 1--------------------
+
+2022-05-31 16:58:42,081		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.082
+2022-05-31 16:58:42,081		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.162
+2022-05-31 16:58:42,081		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:42,081		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:42,108		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 2--------------------
+
+2022-05-31 16:58:42,108		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.082
+2022-05-31 16:58:42,108		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.162
+2022-05-31 16:58:42,108		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:42,108		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:42,135		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 3--------------------
+
+2022-05-31 16:58:42,135		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.082
+2022-05-31 16:58:42,135		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.162
+2022-05-31 16:58:42,135		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:42,135		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:42,162		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 4--------------------
+
+2022-05-31 16:58:42,162		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.082
+2022-05-31 16:58:42,162		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.162
+2022-05-31 16:58:42,162		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:42,162		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:42,190		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 5--------------------
+
+2022-05-31 16:58:42,190		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.082
+2022-05-31 16:58:42,190		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.162
+2022-05-31 16:58:42,190		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:42,190		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:42,217		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 6--------------------
+
+2022-05-31 16:58:42,217		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.082
+2022-05-31 16:58:42,217		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.162
+2022-05-31 16:58:42,217		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:42,217		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:42,244		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 7--------------------
+
+2022-05-31 16:58:42,244		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.082
+2022-05-31 16:58:42,244		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.162
+2022-05-31 16:58:42,244		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:42,245		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:42,272		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 8--------------------
+
+2022-05-31 16:58:42,272		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.082
+2022-05-31 16:58:42,272		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.162
+2022-05-31 16:58:42,272		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:42,272		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:42,299		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 9--------------------
+
+2022-05-31 16:58:42,300		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.082
+2022-05-31 16:58:42,300		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.162
+2022-05-31 16:58:42,300		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:42,300		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:42,330		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 10--------------------
+
+2022-05-31 16:58:42,330		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.082
+2022-05-31 16:58:42,330		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.162
+2022-05-31 16:58:42,330		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:42,330		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:42,361		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 11--------------------
+
+2022-05-31 16:58:42,361		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.082
+2022-05-31 16:58:42,362		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.162
+2022-05-31 16:58:42,362		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:42,362		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:42,392		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 12--------------------
+
+2022-05-31 16:58:42,392		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.082
+2022-05-31 16:58:42,392		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.162
+2022-05-31 16:58:42,392		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:42,392		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:42,420		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 13--------------------
+
+2022-05-31 16:58:42,420		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.082
+2022-05-31 16:58:42,421		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.162
+2022-05-31 16:58:42,421		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:42,421		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:42,448		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 14--------------------
+
+2022-05-31 16:58:42,448		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.082
+2022-05-31 16:58:42,448		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.162
+2022-05-31 16:58:42,448		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0023
+2022-05-31 16:58:42,448		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:42,448		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_end		Elapsed Seconds:0.368785
+2022-05-31 16:58:42,449		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_end		Step6  "PP1V8_LSC_0_KADABRA_TX"  End   <------------------------------
+
+2022-05-31 16:58:42,753		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_start		Step7  "PP1V8_LSC_0" Start   ------------------------------>
+2022-05-31 16:58:42,753		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 1--------------------
+
+2022-05-31 16:58:42,753		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.082
+2022-05-31 16:58:42,754		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.162
+2022-05-31 16:58:42,754		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:42,754		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:42,782		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 2--------------------
+
+2022-05-31 16:58:42,782		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.082
+2022-05-31 16:58:42,782		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.162
+2022-05-31 16:58:42,782		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0023
+2022-05-31 16:58:42,782		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:42,810		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 3--------------------
+
+2022-05-31 16:58:42,811		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.082
+2022-05-31 16:58:42,811		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.162
+2022-05-31 16:58:42,811		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0023
+2022-05-31 16:58:42,811		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:42,838		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 4--------------------
+
+2022-05-31 16:58:42,839		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.082
+2022-05-31 16:58:42,839		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.162
+2022-05-31 16:58:42,839		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:42,839		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:42,867		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 5--------------------
+
+2022-05-31 16:58:42,867		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.082
+2022-05-31 16:58:42,867		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.162
+2022-05-31 16:58:42,867		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:42,867		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:42,895		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 6--------------------
+
+2022-05-31 16:58:42,895		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.082
+2022-05-31 16:58:42,896		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.162
+2022-05-31 16:58:42,896		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:42,896		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:42,924		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 7--------------------
+
+2022-05-31 16:58:42,924		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.082
+2022-05-31 16:58:42,924		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.162
+2022-05-31 16:58:42,924		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0023
+2022-05-31 16:58:42,924		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:42,952		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 8--------------------
+
+2022-05-31 16:58:42,952		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.082
+2022-05-31 16:58:42,952		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.162
+2022-05-31 16:58:42,952		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:42,952		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:42,983		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 9--------------------
+
+2022-05-31 16:58:42,983		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.082
+2022-05-31 16:58:42,983		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.162
+2022-05-31 16:58:42,983		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0023
+2022-05-31 16:58:42,983		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:43,016		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 10--------------------
+
+2022-05-31 16:58:43,016		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.082
+2022-05-31 16:58:43,016		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.162
+2022-05-31 16:58:43,017		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:43,017		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:43,049		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 11--------------------
+
+2022-05-31 16:58:43,049		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.082
+2022-05-31 16:58:43,049		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.162
+2022-05-31 16:58:43,049		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:43,049		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:43,079		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 12--------------------
+
+2022-05-31 16:58:43,079		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.082
+2022-05-31 16:58:43,079		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.162
+2022-05-31 16:58:43,079		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:43,079		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:43,108		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 13--------------------
+
+2022-05-31 16:58:43,108		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.082
+2022-05-31 16:58:43,108		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.162
+2022-05-31 16:58:43,108		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:43,108		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:43,137		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 14--------------------
+
+2022-05-31 16:58:43,137		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.082
+2022-05-31 16:58:43,137		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.162
+2022-05-31 16:58:43,137		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:43,137		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:43,137		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_end		Elapsed Seconds:0.384821
+2022-05-31 16:58:43,137		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_end		Step7  "PP1V8_LSC_0"  End   <------------------------------
+
+2022-05-31 16:58:43,442		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_start		Step8  "IO_PMU_TO_PCM_UVP_TRIG" Start   ------------------------------>
+2022-05-31 16:58:43,443		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 1--------------------
+
+2022-05-31 16:58:43,443		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 1.935
+2022-05-31 16:58:43,443		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.025
+2022-05-31 16:58:43,443		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0023
+2022-05-31 16:58:43,443		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:43,473		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 2--------------------
+
+2022-05-31 16:58:43,473		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 1.935
+2022-05-31 16:58:43,473		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.025
+2022-05-31 16:58:43,474		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:43,474		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:43,503		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 3--------------------
+
+2022-05-31 16:58:43,503		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 1.935
+2022-05-31 16:58:43,503		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.025
+2022-05-31 16:58:43,503		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:43,504		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:43,533		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 4--------------------
+
+2022-05-31 16:58:43,533		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 1.935
+2022-05-31 16:58:43,533		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.025
+2022-05-31 16:58:43,533		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0023
+2022-05-31 16:58:43,533		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:43,564		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 5--------------------
+
+2022-05-31 16:58:43,564		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 1.935
+2022-05-31 16:58:43,564		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.025
+2022-05-31 16:58:43,564		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0023
+2022-05-31 16:58:43,564		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:43,593		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 6--------------------
+
+2022-05-31 16:58:43,593		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 1.935
+2022-05-31 16:58:43,593		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.025
+2022-05-31 16:58:43,594		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:43,594		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:43,623		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 7--------------------
+
+2022-05-31 16:58:43,623		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 1.935
+2022-05-31 16:58:43,623		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.025
+2022-05-31 16:58:43,623		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:43,623		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:43,652		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 8--------------------
+
+2022-05-31 16:58:43,652		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 1.935
+2022-05-31 16:58:43,652		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.025
+2022-05-31 16:58:43,653		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:43,653		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:43,684		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 9--------------------
+
+2022-05-31 16:58:43,685		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 1.935
+2022-05-31 16:58:43,685		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.025
+2022-05-31 16:58:43,685		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:43,685		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:43,717		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 10--------------------
+
+2022-05-31 16:58:43,717		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 1.935
+2022-05-31 16:58:43,717		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.025
+2022-05-31 16:58:43,717		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:43,718		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:43,751		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 11--------------------
+
+2022-05-31 16:58:43,751		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 1.935
+2022-05-31 16:58:43,751		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.025
+2022-05-31 16:58:43,751		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:43,751		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:43,751		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 12--------------------
+
+2022-05-31 16:58:43,751		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 1.935
+2022-05-31 16:58:43,752		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.025
+2022-05-31 16:58:43,752		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0023
+2022-05-31 16:58:43,752		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:43,782		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 13--------------------
+
+2022-05-31 16:58:43,782		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 1.935
+2022-05-31 16:58:43,782		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.025
+2022-05-31 16:58:43,782		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:43,782		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:43,812		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 14--------------------
+
+2022-05-31 16:58:43,812		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 1.935
+2022-05-31 16:58:43,812		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.025
+2022-05-31 16:58:43,813		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0023
+2022-05-31 16:58:43,813		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:43,813		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_end		Elapsed Seconds:0.370566
+2022-05-31 16:58:43,813		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_end		Step8  "IO_PMU_TO_PCM_UVP_TRIG"  End   <------------------------------
+
+2022-05-31 16:58:44,115		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_start		Step9  "I2C0_RTP_BI_KADABRA_SDA_D" Start   ------------------------------>
+2022-05-31 16:58:44,115		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 1--------------------
+
+2022-05-31 16:58:44,116		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:44,116		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.321
+2022-05-31 16:58:44,116		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0022
+2022-05-31 16:58:44,116		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:44,147		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 2--------------------
+
+2022-05-31 16:58:44,147		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:44,147		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.321
+2022-05-31 16:58:44,147		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:44,147		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:44,177		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 3--------------------
+
+2022-05-31 16:58:44,178		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:44,178		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.321
+2022-05-31 16:58:44,178		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:44,178		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:44,209		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 4--------------------
+
+2022-05-31 16:58:44,209		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:44,209		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.321
+2022-05-31 16:58:44,209		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:44,209		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:44,240		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 5--------------------
+
+2022-05-31 16:58:44,240		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:44,240		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.321
+2022-05-31 16:58:44,240		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:44,240		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:44,270		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 6--------------------
+
+2022-05-31 16:58:44,270		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:44,271		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.321
+2022-05-31 16:58:44,271		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:44,271		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:44,301		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 7--------------------
+
+2022-05-31 16:58:44,301		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:44,301		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.321
+2022-05-31 16:58:44,301		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:44,301		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:44,333		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 8--------------------
+
+2022-05-31 16:58:44,333		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:44,333		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.321
+2022-05-31 16:58:44,333		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:44,333		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:44,366		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 9--------------------
+
+2022-05-31 16:58:44,367		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:44,367		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.321
+2022-05-31 16:58:44,367		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0023
+2022-05-31 16:58:44,367		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:44,402		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 10--------------------
+
+2022-05-31 16:58:44,402		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:44,402		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.321
+2022-05-31 16:58:44,402		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:44,402		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:44,436		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 11--------------------
+
+2022-05-31 16:58:44,436		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:44,436		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.321
+2022-05-31 16:58:44,436		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:44,436		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:44,468		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 12--------------------
+
+2022-05-31 16:58:44,468		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:44,468		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.321
+2022-05-31 16:58:44,468		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0023
+2022-05-31 16:58:44,468		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:44,500		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 13--------------------
+
+2022-05-31 16:58:44,500		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:44,500		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.321
+2022-05-31 16:58:44,500		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:44,500		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:44,531		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 14--------------------
+
+2022-05-31 16:58:44,531		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:44,531		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.321
+2022-05-31 16:58:44,531		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:44,531		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:44,531		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_end		Elapsed Seconds:0.416178
+2022-05-31 16:58:44,531		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_end		Step9  "I2C0_RTP_BI_KADABRA_SDA_D"  End   <------------------------------
+
+2022-05-31 16:58:44,836		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_start		Step10  "PDM_AUD_FROM_TOP_FRONT_MIC_DATA" Start   ------------------------------>
+2022-05-31 16:58:44,837		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 1--------------------
+
+2022-05-31 16:58:44,837		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:44,837		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.295
+2022-05-31 16:58:44,837		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:44,837		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:44,869		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 2--------------------
+
+2022-05-31 16:58:44,869		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:44,869		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.295
+2022-05-31 16:58:44,869		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0023
+2022-05-31 16:58:44,869		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:44,901		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 3--------------------
+
+2022-05-31 16:58:44,901		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:44,901		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.295
+2022-05-31 16:58:44,901		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:44,901		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:44,932		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 4--------------------
+
+2022-05-31 16:58:44,932		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:44,932		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.295
+2022-05-31 16:58:44,932		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:44,932		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:44,964		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 5--------------------
+
+2022-05-31 16:58:44,964		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:44,964		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.295
+2022-05-31 16:58:44,964		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0023
+2022-05-31 16:58:44,964		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:44,996		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 6--------------------
+
+2022-05-31 16:58:44,996		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:44,996		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.295
+2022-05-31 16:58:44,996		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0025
+2022-05-31 16:58:44,996		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:45,028		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 7--------------------
+
+2022-05-31 16:58:45,028		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:45,028		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.295
+2022-05-31 16:58:45,028		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0023
+2022-05-31 16:58:45,028		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:45,062		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 8--------------------
+
+2022-05-31 16:58:45,062		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:45,062		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.295
+2022-05-31 16:58:45,062		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0023
+2022-05-31 16:58:45,062		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:45,098		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 9--------------------
+
+2022-05-31 16:58:45,098		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:45,098		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.295
+2022-05-31 16:58:45,099		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:45,099		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:45,134		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 10--------------------
+
+2022-05-31 16:58:45,134		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:45,134		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.295
+2022-05-31 16:58:45,134		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:45,134		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:45,168		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 11--------------------
+
+2022-05-31 16:58:45,168		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:45,168		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.295
+2022-05-31 16:58:45,168		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0025
+2022-05-31 16:58:45,168		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:45,201		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 12--------------------
+
+2022-05-31 16:58:45,201		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:45,201		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.295
+2022-05-31 16:58:45,201		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:45,201		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:45,233		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 13--------------------
+
+2022-05-31 16:58:45,233		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:45,234		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.295
+2022-05-31 16:58:45,234		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0023
+2022-05-31 16:58:45,234		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:45,266		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 14--------------------
+
+2022-05-31 16:58:45,266		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:45,266		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.295
+2022-05-31 16:58:45,266		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:45,266		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:45,266		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_end		Elapsed Seconds:0.430143
+2022-05-31 16:58:45,266		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_end		Step10  "PDM_AUD_FROM_TOP_FRONT_MIC_DATA"  End   <------------------------------
+
+2022-05-31 16:58:45,571		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_start		Step11  "PDM_AUD_TO_FRONT_MIC_CLK" Start   ------------------------------>
+2022-05-31 16:58:45,572		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 1--------------------
+
+2022-05-31 16:58:45,572		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:45,572		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.295
+2022-05-31 16:58:45,572		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:45,573		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:45,606		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 2--------------------
+
+2022-05-31 16:58:45,606		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:45,606		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.295
+2022-05-31 16:58:45,606		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:45,606		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:45,639		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 3--------------------
+
+2022-05-31 16:58:45,639		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:45,639		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.295
+2022-05-31 16:58:45,639		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:45,639		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:45,672		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 4--------------------
+
+2022-05-31 16:58:45,672		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:45,672		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.295
+2022-05-31 16:58:45,672		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:45,672		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:45,705		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 5--------------------
+
+2022-05-31 16:58:45,706		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:45,706		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.295
+2022-05-31 16:58:45,706		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:45,706		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:45,739		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 6--------------------
+
+2022-05-31 16:58:45,739		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:45,739		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.295
+2022-05-31 16:58:45,739		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:45,739		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:45,772		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 7--------------------
+
+2022-05-31 16:58:45,772		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:45,772		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.295
+2022-05-31 16:58:45,772		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:45,772		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:45,808		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 8--------------------
+
+2022-05-31 16:58:45,808		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:45,808		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.295
+2022-05-31 16:58:45,808		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:45,808		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:45,846		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 9--------------------
+
+2022-05-31 16:58:45,846		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:45,846		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.295
+2022-05-31 16:58:45,846		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0025
+2022-05-31 16:58:45,847		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:45,884		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 10--------------------
+
+2022-05-31 16:58:45,884		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:45,884		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.295
+2022-05-31 16:58:45,884		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0022
+2022-05-31 16:58:45,884		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:45,919		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 11--------------------
+
+2022-05-31 16:58:45,919		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:45,919		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.295
+2022-05-31 16:58:45,919		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:45,919		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:45,953		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 12--------------------
+
+2022-05-31 16:58:45,953		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:45,953		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.295
+2022-05-31 16:58:45,953		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:45,953		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:45,986		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 13--------------------
+
+2022-05-31 16:58:45,986		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:45,986		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.295
+2022-05-31 16:58:45,986		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:45,986		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:46,021		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 14--------------------
+
+2022-05-31 16:58:46,021		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:46,021		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.295
+2022-05-31 16:58:46,021		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:46,021		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:46,021		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_end		Elapsed Seconds:0.449563
+2022-05-31 16:58:46,021		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_end		Step11  "PDM_AUD_TO_FRONT_MIC_CLK"  End   <------------------------------
+
+2022-05-31 16:58:46,325		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_start		Step12  "I2C0_RTP_TO_KADABRA_SCL_D" Start   ------------------------------>
+2022-05-31 16:58:46,325		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 1--------------------
+
+2022-05-31 16:58:46,325		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:46,326		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.295
+2022-05-31 16:58:46,326		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0023
+2022-05-31 16:58:46,326		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:46,360		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 2--------------------
+
+2022-05-31 16:58:46,360		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:46,360		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.295
+2022-05-31 16:58:46,360		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:46,360		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:46,394		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 3--------------------
+
+2022-05-31 16:58:46,395		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:46,395		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.295
+2022-05-31 16:58:46,395		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0023
+2022-05-31 16:58:46,395		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:46,429		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 4--------------------
+
+2022-05-31 16:58:46,429		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:46,429		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.295
+2022-05-31 16:58:46,429		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0022
+2022-05-31 16:58:46,429		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:46,464		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 5--------------------
+
+2022-05-31 16:58:46,464		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:46,464		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.295
+2022-05-31 16:58:46,464		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:46,464		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:46,498		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 6--------------------
+
+2022-05-31 16:58:46,498		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:46,498		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.295
+2022-05-31 16:58:46,498		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0022
+2022-05-31 16:58:46,499		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:46,533		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 7--------------------
+
+2022-05-31 16:58:46,533		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:46,533		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.295
+2022-05-31 16:58:46,533		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:46,533		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:46,572		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 8--------------------
+
+2022-05-31 16:58:46,572		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:46,572		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.295
+2022-05-31 16:58:46,572		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0021
+2022-05-31 16:58:46,573		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:46,610		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 9--------------------
+
+2022-05-31 16:58:46,610		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:46,610		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.295
+2022-05-31 16:58:46,610		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0023
+2022-05-31 16:58:46,610		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:46,648		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 10--------------------
+
+2022-05-31 16:58:46,648		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:46,648		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.295
+2022-05-31 16:58:46,648		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:46,648		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:46,683		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 11--------------------
+
+2022-05-31 16:58:46,683		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:46,683		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.295
+2022-05-31 16:58:46,683		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:46,683		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:46,718		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 12--------------------
+
+2022-05-31 16:58:46,718		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:46,718		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.295
+2022-05-31 16:58:46,718		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:46,718		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:46,755		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 13--------------------
+
+2022-05-31 16:58:46,755		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:46,755		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.295
+2022-05-31 16:58:46,755		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:46,755		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:46,794		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 14--------------------
+
+2022-05-31 16:58:46,794		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:46,794		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.295
+2022-05-31 16:58:46,794		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:46,794		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:46,794		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_end		Elapsed Seconds:0.46945
+2022-05-31 16:58:46,794		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_end		Step12  "I2C0_RTP_TO_KADABRA_SCL_D"  End   <------------------------------
+
+2022-05-31 16:58:47,097		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_start		Step13  "PP1V2_LSB_0" Start   ------------------------------>
+2022-05-31 16:58:47,097		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 1--------------------
+
+2022-05-31 16:58:47,098		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.215
+2022-05-31 16:58:47,098		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.275
+2022-05-31 16:58:47,098		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:47,098		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:47,134		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 2--------------------
+
+2022-05-31 16:58:47,134		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.215
+2022-05-31 16:58:47,134		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.275
+2022-05-31 16:58:47,134		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:47,134		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:47,170		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 3--------------------
+
+2022-05-31 16:58:47,170		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.215
+2022-05-31 16:58:47,170		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.275
+2022-05-31 16:58:47,170		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:47,170		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:47,205		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 4--------------------
+
+2022-05-31 16:58:47,205		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.215
+2022-05-31 16:58:47,205		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.275
+2022-05-31 16:58:47,205		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:47,205		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:47,242		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 5--------------------
+
+2022-05-31 16:58:47,242		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.215
+2022-05-31 16:58:47,242		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.275
+2022-05-31 16:58:47,242		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:47,242		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:47,277		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 6--------------------
+
+2022-05-31 16:58:47,278		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.215
+2022-05-31 16:58:47,278		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.275
+2022-05-31 16:58:47,278		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:47,278		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:47,313		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 7--------------------
+
+2022-05-31 16:58:47,314		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.215
+2022-05-31 16:58:47,314		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.275
+2022-05-31 16:58:47,314		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:47,314		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:47,314		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 8--------------------
+
+2022-05-31 16:58:47,314		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.215
+2022-05-31 16:58:47,314		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.275
+2022-05-31 16:58:47,315		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:47,315		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:47,354		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 9--------------------
+
+2022-05-31 16:58:47,354		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.215
+2022-05-31 16:58:47,354		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.275
+2022-05-31 16:58:47,354		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0023
+2022-05-31 16:58:47,354		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:47,395		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 10--------------------
+
+2022-05-31 16:58:47,395		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.215
+2022-05-31 16:58:47,395		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.275
+2022-05-31 16:58:47,395		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0023
+2022-05-31 16:58:47,395		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:47,433		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 11--------------------
+
+2022-05-31 16:58:47,433		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.215
+2022-05-31 16:58:47,433		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.275
+2022-05-31 16:58:47,434		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:47,434		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:47,469		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 12--------------------
+
+2022-05-31 16:58:47,469		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.215
+2022-05-31 16:58:47,469		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.275
+2022-05-31 16:58:47,469		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:47,469		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:47,505		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 13--------------------
+
+2022-05-31 16:58:47,506		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.215
+2022-05-31 16:58:47,506		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.275
+2022-05-31 16:58:47,506		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:47,506		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:47,544		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 14--------------------
+
+2022-05-31 16:58:47,544		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.215
+2022-05-31 16:58:47,544		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.275
+2022-05-31 16:58:47,544		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:47,544		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:47,544		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_end		Elapsed Seconds:0.447067
+2022-05-31 16:58:47,544		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_end		Step13  "PP1V2_LSB_0"  End   <------------------------------
+
+2022-05-31 16:58:47,847		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_start		Step14  "IO_SOC_FROM_KADABRA_INT_L" Start   ------------------------------>
+2022-05-31 16:58:47,848		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 1--------------------
+
+2022-05-31 16:58:47,848		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.207
+2022-05-31 16:58:47,848		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.283
+2022-05-31 16:58:47,848		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:47,848		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:47,886		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 2--------------------
+
+2022-05-31 16:58:47,886		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.207
+2022-05-31 16:58:47,886		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.283
+2022-05-31 16:58:47,886		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:47,886		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:47,922		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 3--------------------
+
+2022-05-31 16:58:47,922		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.207
+2022-05-31 16:58:47,922		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.283
+2022-05-31 16:58:47,923		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0025
+2022-05-31 16:58:47,923		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:47,959		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 4--------------------
+
+2022-05-31 16:58:47,959		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.207
+2022-05-31 16:58:47,959		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.283
+2022-05-31 16:58:47,959		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:47,960		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:47,996		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 5--------------------
+
+2022-05-31 16:58:47,996		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.207
+2022-05-31 16:58:47,996		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.283
+2022-05-31 16:58:47,996		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:47,996		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:48,033		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 6--------------------
+
+2022-05-31 16:58:48,033		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.207
+2022-05-31 16:58:48,033		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.283
+2022-05-31 16:58:48,033		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:48,033		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:48,072		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 7--------------------
+
+2022-05-31 16:58:48,072		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.207
+2022-05-31 16:58:48,072		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.283
+2022-05-31 16:58:48,072		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:48,072		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:48,111		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 8--------------------
+
+2022-05-31 16:58:48,111		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.207
+2022-05-31 16:58:48,111		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.283
+2022-05-31 16:58:48,111		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:48,111		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:48,153		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 9--------------------
+
+2022-05-31 16:58:48,153		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.207
+2022-05-31 16:58:48,153		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.283
+2022-05-31 16:58:48,153		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0023
+2022-05-31 16:58:48,153		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:48,153		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 10--------------------
+
+2022-05-31 16:58:48,154		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.207
+2022-05-31 16:58:48,154		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.283
+2022-05-31 16:58:48,154		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:48,154		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:48,191		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 11--------------------
+
+2022-05-31 16:58:48,191		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.207
+2022-05-31 16:58:48,192		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.283
+2022-05-31 16:58:48,192		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0025
+2022-05-31 16:58:48,192		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:48,229		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 12--------------------
+
+2022-05-31 16:58:48,229		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.207
+2022-05-31 16:58:48,229		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.283
+2022-05-31 16:58:48,229		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0021
+2022-05-31 16:58:48,229		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:48,267		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 13--------------------
+
+2022-05-31 16:58:48,267		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.207
+2022-05-31 16:58:48,267		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.283
+2022-05-31 16:58:48,267		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0022
+2022-05-31 16:58:48,267		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:48,306		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 14--------------------
+
+2022-05-31 16:58:48,307		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.207
+2022-05-31 16:58:48,307		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.283
+2022-05-31 16:58:48,307		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:48,307		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:48,307		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_end		Elapsed Seconds:0.459892
+2022-05-31 16:58:48,307		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_end		Step14  "IO_SOC_FROM_KADABRA_INT_L"  End   <------------------------------
+
+2022-05-31 16:58:48,607		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_start		Step15  "PACK_NEG" Start   ------------------------------>
+2022-05-31 16:58:48,608		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 1--------------------
+
+2022-05-31 16:58:48,608		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.461
+2022-05-31 16:58:48,608		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.515
+2022-05-31 16:58:48,608		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:48,608		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:48,647		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 2--------------------
+
+2022-05-31 16:58:48,647		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.461
+2022-05-31 16:58:48,647		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.515
+2022-05-31 16:58:48,647		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0023
+2022-05-31 16:58:48,647		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:48,685		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 3--------------------
+
+2022-05-31 16:58:48,685		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.461
+2022-05-31 16:58:48,685		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.515
+2022-05-31 16:58:48,685		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0022
+2022-05-31 16:58:48,685		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:48,722		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 4--------------------
+
+2022-05-31 16:58:48,722		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.461
+2022-05-31 16:58:48,722		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.515
+2022-05-31 16:58:48,722		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:48,722		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:48,761		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 5--------------------
+
+2022-05-31 16:58:48,761		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.461
+2022-05-31 16:58:48,761		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.515
+2022-05-31 16:58:48,761		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0023
+2022-05-31 16:58:48,761		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:48,799		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 6--------------------
+
+2022-05-31 16:58:48,799		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.461
+2022-05-31 16:58:48,799		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.515
+2022-05-31 16:58:48,799		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:48,799		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:48,839		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 7--------------------
+
+2022-05-31 16:58:48,840		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.461
+2022-05-31 16:58:48,840		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.515
+2022-05-31 16:58:48,840		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:48,840		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:48,882		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 8--------------------
+
+2022-05-31 16:58:48,882		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.461
+2022-05-31 16:58:48,882		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.515
+2022-05-31 16:58:48,882		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:48,882		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:48,922		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 9--------------------
+
+2022-05-31 16:58:48,922		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.461
+2022-05-31 16:58:48,923		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.515
+2022-05-31 16:58:48,923		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0025
+2022-05-31 16:58:48,923		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:48,961		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 10--------------------
+
+2022-05-31 16:58:48,961		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.461
+2022-05-31 16:58:48,961		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.515
+2022-05-31 16:58:48,961		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0025
+2022-05-31 16:58:48,961		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:48,999		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 11--------------------
+
+2022-05-31 16:58:48,999		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.461
+2022-05-31 16:58:48,999		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.515
+2022-05-31 16:58:48,999		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:48,999		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:49,038		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 12--------------------
+
+2022-05-31 16:58:49,038		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.461
+2022-05-31 16:58:49,038		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.515
+2022-05-31 16:58:49,038		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:49,038		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:49,081		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 13--------------------
+
+2022-05-31 16:58:49,081		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.461
+2022-05-31 16:58:49,081		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.515
+2022-05-31 16:58:49,081		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:49,081		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:49,124		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 14--------------------
+
+2022-05-31 16:58:49,125		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.461
+2022-05-31 16:58:49,125		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.515
+2022-05-31 16:58:49,125		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:49,125		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:49,125		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_end		Elapsed Seconds:0.517523
+2022-05-31 16:58:49,125		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_end		Step15  "PACK_NEG"  End   <------------------------------
+
+2022-05-31 16:58:49,429		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_start		Step16  "PP2V7_LDO2" Start   ------------------------------>
+2022-05-31 16:58:49,430		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 1--------------------
+
+2022-05-31 16:58:49,430		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 1.951
+2022-05-31 16:58:49,430		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.099
+2022-05-31 16:58:49,430		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:49,430		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:49,470		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 2--------------------
+
+2022-05-31 16:58:49,470		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 1.951
+2022-05-31 16:58:49,470		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.099
+2022-05-31 16:58:49,470		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0023
+2022-05-31 16:58:49,470		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:49,509		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 3--------------------
+
+2022-05-31 16:58:49,509		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 1.951
+2022-05-31 16:58:49,509		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.099
+2022-05-31 16:58:49,509		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:49,509		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:49,548		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 4--------------------
+
+2022-05-31 16:58:49,548		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 1.951
+2022-05-31 16:58:49,548		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.099
+2022-05-31 16:58:49,548		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:49,548		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:49,588		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 5--------------------
+
+2022-05-31 16:58:49,588		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 1.951
+2022-05-31 16:58:49,588		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.099
+2022-05-31 16:58:49,588		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:49,588		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:49,627		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 6--------------------
+
+2022-05-31 16:58:49,628		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 1.951
+2022-05-31 16:58:49,628		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.099
+2022-05-31 16:58:49,628		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0025
+2022-05-31 16:58:49,628		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:49,670		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 7--------------------
+
+2022-05-31 16:58:49,670		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 1.951
+2022-05-31 16:58:49,670		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.099
+2022-05-31 16:58:49,670		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0022
+2022-05-31 16:58:49,670		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:49,713		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 8--------------------
+
+2022-05-31 16:58:49,713		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 1.951
+2022-05-31 16:58:49,713		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.099
+2022-05-31 16:58:49,713		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:49,713		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:49,757		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 9--------------------
+
+2022-05-31 16:58:49,757		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 1.951
+2022-05-31 16:58:49,757		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.099
+2022-05-31 16:58:49,757		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0025
+2022-05-31 16:58:49,757		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:49,798		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 10--------------------
+
+2022-05-31 16:58:49,798		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 1.951
+2022-05-31 16:58:49,798		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.099
+2022-05-31 16:58:49,798		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:49,798		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:49,838		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 11--------------------
+
+2022-05-31 16:58:49,838		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 1.951
+2022-05-31 16:58:49,838		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.099
+2022-05-31 16:58:49,838		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:49,838		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:49,878		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 12--------------------
+
+2022-05-31 16:58:49,878		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 1.951
+2022-05-31 16:58:49,878		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.099
+2022-05-31 16:58:49,878		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:49,878		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:49,922		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 13--------------------
+
+2022-05-31 16:58:49,922		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 1.951
+2022-05-31 16:58:49,922		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.099
+2022-05-31 16:58:49,922		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:49,922		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:49,967		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 14--------------------
+
+2022-05-31 16:58:49,967		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 1.951
+2022-05-31 16:58:49,967		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.099
+2022-05-31 16:58:49,967		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0022
+2022-05-31 16:58:49,967		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:49,967		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_end		Elapsed Seconds:0.538487
+2022-05-31 16:58:49,967		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_end		Step16  "PP2V7_LDO2"  End   <------------------------------
+
+2022-05-31 16:58:50,269		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_start		Step17  "I2C1_RTP_TO_MANDO_SCL" Start   ------------------------------>
+2022-05-31 16:58:50,270		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 1--------------------
+
+2022-05-31 16:58:50,270		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:50,270		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.305
+2022-05-31 16:58:50,270		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:50,270		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:50,311		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 2--------------------
+
+2022-05-31 16:58:50,311		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:50,311		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.305
+2022-05-31 16:58:50,311		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:50,311		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:50,351		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 3--------------------
+
+2022-05-31 16:58:50,351		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:50,351		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.305
+2022-05-31 16:58:50,351		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:50,351		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:50,392		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 4--------------------
+
+2022-05-31 16:58:50,392		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:50,392		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.305
+2022-05-31 16:58:50,392		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:50,392		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:50,432		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 5--------------------
+
+2022-05-31 16:58:50,432		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:50,433		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.305
+2022-05-31 16:58:50,433		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:50,433		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:50,473		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 6--------------------
+
+2022-05-31 16:58:50,473		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:50,473		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.305
+2022-05-31 16:58:50,473		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:50,473		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:50,517		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 7--------------------
+
+2022-05-31 16:58:50,518		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:50,518		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.305
+2022-05-31 16:58:50,518		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:50,518		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:50,562		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 8--------------------
+
+2022-05-31 16:58:50,562		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:50,562		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.305
+2022-05-31 16:58:50,562		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:50,563		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:50,607		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 9--------------------
+
+2022-05-31 16:58:50,607		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:50,607		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.305
+2022-05-31 16:58:50,607		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:50,607		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:50,648		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 10--------------------
+
+2022-05-31 16:58:50,648		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:50,648		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.305
+2022-05-31 16:58:50,648		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0022
+2022-05-31 16:58:50,648		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:50,689		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 11--------------------
+
+2022-05-31 16:58:50,689		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:50,689		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.305
+2022-05-31 16:58:50,690		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:50,690		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:50,734		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 12--------------------
+
+2022-05-31 16:58:50,734		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:50,734		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.305
+2022-05-31 16:58:50,734		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0025
+2022-05-31 16:58:50,734		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:50,779		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 13--------------------
+
+2022-05-31 16:58:50,779		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:50,780		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.305
+2022-05-31 16:58:50,780		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:50,780		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:50,823		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 14--------------------
+
+2022-05-31 16:58:50,823		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:50,823		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.305
+2022-05-31 16:58:50,823		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:50,823		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:50,823		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_end		Elapsed Seconds:0.553759
+2022-05-31 16:58:50,823		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_end		Step17  "I2C1_RTP_TO_MANDO_SCL"  End   <------------------------------
+
+2022-05-31 16:58:51,127		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_start		Step18  "I2C1_RTP_BI_MANDO_SDA" Start   ------------------------------>
+2022-05-31 16:58:51,127		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 1--------------------
+
+2022-05-31 16:58:51,128		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:51,128		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.305
+2022-05-31 16:58:51,128		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:51,128		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:51,170		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 2--------------------
+
+2022-05-31 16:58:51,170		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:51,170		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.305
+2022-05-31 16:58:51,170		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:51,170		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:51,212		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 3--------------------
+
+2022-05-31 16:58:51,212		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:51,212		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.305
+2022-05-31 16:58:51,212		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0023
+2022-05-31 16:58:51,212		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:51,254		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 4--------------------
+
+2022-05-31 16:58:51,255		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:51,255		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.305
+2022-05-31 16:58:51,255		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:51,255		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:51,296		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 5--------------------
+
+2022-05-31 16:58:51,296		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:51,296		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.305
+2022-05-31 16:58:51,296		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:51,296		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:51,338		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 6--------------------
+
+2022-05-31 16:58:51,338		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:51,338		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.305
+2022-05-31 16:58:51,338		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:51,338		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:51,385		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 7--------------------
+
+2022-05-31 16:58:51,385		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:51,385		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.305
+2022-05-31 16:58:51,385		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:51,385		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:51,431		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 8--------------------
+
+2022-05-31 16:58:51,431		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:51,431		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.305
+2022-05-31 16:58:51,431		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:51,431		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:51,475		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 9--------------------
+
+2022-05-31 16:58:51,475		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:51,475		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.305
+2022-05-31 16:58:51,475		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:51,475		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:51,518		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 10--------------------
+
+2022-05-31 16:58:51,518		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:51,518		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.305
+2022-05-31 16:58:51,518		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:51,518		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:51,562		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 11--------------------
+
+2022-05-31 16:58:51,562		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:51,562		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.305
+2022-05-31 16:58:51,562		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0022
+2022-05-31 16:58:51,562		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:51,610		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 12--------------------
+
+2022-05-31 16:58:51,610		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:51,610		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.305
+2022-05-31 16:58:51,610		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:51,610		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:51,656		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 13--------------------
+
+2022-05-31 16:58:51,656		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:51,656		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.305
+2022-05-31 16:58:51,656		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:51,656		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:51,699		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 14--------------------
+
+2022-05-31 16:58:51,699		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.205
+2022-05-31 16:58:51,699		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.305
+2022-05-31 16:58:51,699		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:51,699		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:51,699		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_end		Elapsed Seconds:0.572571
+2022-05-31 16:58:51,699		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_end		Step18  "I2C1_RTP_BI_MANDO_SDA"  End   <------------------------------
+
+2022-05-31 16:58:52,005		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_start		Step19  "PP_FUN_BUS" Start   ------------------------------>
+2022-05-31 16:58:52,005		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 1--------------------
+
+2022-05-31 16:58:52,005		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.055
+2022-05-31 16:58:52,006		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.174
+2022-05-31 16:58:52,006		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:52,006		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:52,048		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 2--------------------
+
+2022-05-31 16:58:52,049		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.055
+2022-05-31 16:58:52,049		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.174
+2022-05-31 16:58:52,049		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:52,049		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:52,093		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 3--------------------
+
+2022-05-31 16:58:52,093		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.055
+2022-05-31 16:58:52,093		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.174
+2022-05-31 16:58:52,093		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:52,093		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:52,136		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 4--------------------
+
+2022-05-31 16:58:52,136		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.055
+2022-05-31 16:58:52,136		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.174
+2022-05-31 16:58:52,136		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:52,136		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:52,178		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 5--------------------
+
+2022-05-31 16:58:52,178		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.055
+2022-05-31 16:58:52,178		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.174
+2022-05-31 16:58:52,178		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0023
+2022-05-31 16:58:52,178		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:52,223		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 6--------------------
+
+2022-05-31 16:58:52,223		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.055
+2022-05-31 16:58:52,223		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.174
+2022-05-31 16:58:52,223		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:52,223		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:52,271		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 7--------------------
+
+2022-05-31 16:58:52,271		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.055
+2022-05-31 16:58:52,271		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.174
+2022-05-31 16:58:52,271		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0023
+2022-05-31 16:58:52,272		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:52,272		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 8--------------------
+
+2022-05-31 16:58:52,272		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.055
+2022-05-31 16:58:52,272		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.174
+2022-05-31 16:58:52,272		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:52,272		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:52,319		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 9--------------------
+
+2022-05-31 16:58:52,319		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.055
+2022-05-31 16:58:52,319		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.174
+2022-05-31 16:58:52,319		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:52,319		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:52,320		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 10--------------------
+
+2022-05-31 16:58:52,320		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.055
+2022-05-31 16:58:52,320		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.174
+2022-05-31 16:58:52,320		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0023
+2022-05-31 16:58:52,320		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:52,364		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 11--------------------
+
+2022-05-31 16:58:52,364		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.055
+2022-05-31 16:58:52,364		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.174
+2022-05-31 16:58:52,365		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0025
+2022-05-31 16:58:52,365		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:52,409		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 12--------------------
+
+2022-05-31 16:58:52,409		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.055
+2022-05-31 16:58:52,409		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.174
+2022-05-31 16:58:52,409		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:52,409		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:52,410		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 13--------------------
+
+2022-05-31 16:58:52,410		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.055
+2022-05-31 16:58:52,410		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.174
+2022-05-31 16:58:52,410		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:52,410		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:52,457		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 14--------------------
+
+2022-05-31 16:58:52,457		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.055
+2022-05-31 16:58:52,457		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.174
+2022-05-31 16:58:52,458		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:52,458		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:52,458		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_end		Elapsed Seconds:0.453063
+2022-05-31 16:58:52,458		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_end		Step19  "PP_FUN_BUS"  End   <------------------------------
+
+2022-05-31 16:58:52,762		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_start		Step20  "GND" Start   ------------------------------>
+2022-05-31 16:58:52,762		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 1--------------------
+
+2022-05-31 16:58:52,763		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.464
+2022-05-31 16:58:52,763		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.515
+2022-05-31 16:58:52,763		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:52,763		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:52,809		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 2--------------------
+
+2022-05-31 16:58:52,809		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.464
+2022-05-31 16:58:52,809		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.515
+2022-05-31 16:58:52,809		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0023
+2022-05-31 16:58:52,809		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:52,854		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 3--------------------
+
+2022-05-31 16:58:52,855		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.464
+2022-05-31 16:58:52,855		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.515
+2022-05-31 16:58:52,855		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:52,855		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:52,900		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 4--------------------
+
+2022-05-31 16:58:52,900		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.464
+2022-05-31 16:58:52,900		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.515
+2022-05-31 16:58:52,900		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:52,900		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:52,945		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 5--------------------
+
+2022-05-31 16:58:52,945		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.464
+2022-05-31 16:58:52,945		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.515
+2022-05-31 16:58:52,945		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0025
+2022-05-31 16:58:52,945		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:52,991		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 6--------------------
+
+2022-05-31 16:58:52,991		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.464
+2022-05-31 16:58:52,991		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.515
+2022-05-31 16:58:52,991		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:52,991		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:53,039		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 7--------------------
+
+2022-05-31 16:58:53,039		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.464
+2022-05-31 16:58:53,039		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.515
+2022-05-31 16:58:53,039		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0025
+2022-05-31 16:58:53,039		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:53,087		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 8--------------------
+
+2022-05-31 16:58:53,087		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.464
+2022-05-31 16:58:53,087		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.515
+2022-05-31 16:58:53,087		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0023
+2022-05-31 16:58:53,087		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:53,132		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 9--------------------
+
+2022-05-31 16:58:53,133		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.464
+2022-05-31 16:58:53,133		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.515
+2022-05-31 16:58:53,133		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:53,133		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:53,178		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 10--------------------
+
+2022-05-31 16:58:53,178		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.464
+2022-05-31 16:58:53,178		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.515
+2022-05-31 16:58:53,178		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:53,178		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:53,224		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 11--------------------
+
+2022-05-31 16:58:53,224		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.464
+2022-05-31 16:58:53,225		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.515
+2022-05-31 16:58:53,225		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:53,225		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:53,274		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 12--------------------
+
+2022-05-31 16:58:53,274		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.464
+2022-05-31 16:58:53,275		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.515
+2022-05-31 16:58:53,275		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:53,275		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:53,324		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 13--------------------
+
+2022-05-31 16:58:53,324		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.464
+2022-05-31 16:58:53,325		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.515
+2022-05-31 16:58:53,325		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:53,325		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:53,371		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		slot 14--------------------
+
+2022-05-31 16:58:53,371		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Lower Limit: 2.464
+2022-05-31 16:58:53,371		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Upper Limit: 2.515
+2022-05-31 16:58:53,371		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Get Value: 0024
+2022-05-31 16:58:53,371		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.set_item_result		Test Result: FAIL
+2022-05-31 16:58:53,371		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_end		Elapsed Seconds:0.609316
+2022-05-31 16:58:53,371		<Process>(pid: 10434,tid: 123145557811200)		<function>admin.item_end		Step20  "GND"  End   <------------------------------
+

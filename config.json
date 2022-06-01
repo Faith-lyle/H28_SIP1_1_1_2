@@ -1,0 +1,14 @@
+{
+  "station_name": "A5-2F-S10_SIP_Measurement_L",
+  "station_id": "Station ID",
+  "pass_number_site1": 0,
+  "fail_number_site1": 0,
+  "pass_number_site2": 0,
+  "fail_number_site2": 0,
+  "test_plan_file": "TestPlan.csv",
+  "PDCA_mode": true,
+  "server_ip": "192.168.1.61",
+  "server_port": 5000,
+  "serial_port": "COM3",
+  "LogPath": "/Users/luxshare-ict/Desktop/PythonProject/H28_SIP1_1_1_2/Log"
+}
